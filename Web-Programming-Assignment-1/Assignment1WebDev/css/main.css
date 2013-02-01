@@ -1,0 +1,85 @@
+/* HOME PAGE CSS
+ * Author: James McColl
+ * Date: February 1st, 2013
+ */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #3D3D3D;
+}
+
+body {
+	background-color: #C0C0C0;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+.logo {
+	float: left;
+}
+
+/* ===================
+   Create the Blue Theme
+   =================== */
+
+.header-container {
+	height: 120px;
+    border-bottom: 10px solid #3543FB;
+}
+
+.footer-container,
+.main aside {
+    border-top: 10px solid #3543FB;
+}
+
+.header-container,
+.footer-container,
+.main aside {
+    background: #030D93;
+    color: white;
+}
+
+.title {
+    color: white;
+}
+
+/* ==============
+    MOBILE: Menu
+   ============== */
+
+nav ul {
+	height: 30px;
+	float: center
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    height: 30px;
+    line-height: 30px;
+    display: inline;
+    list-style-type: none;
+    
+}
+nav a {
+	padding: 5px 30px;
+	padding-bottom: 5px;
+	display: inline;
+	float: center
+	text-align: center;
+	color: white;
+	background: #3543FB;
+	text-decoration: none;
+}
+
+nav a:hover,
+nav a:visited {
+    color: white;
+}
+
+nav a:hover {
+    background-color: #020538;
+}
