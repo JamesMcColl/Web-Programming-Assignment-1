@@ -43,8 +43,8 @@ p {
 }
 
 .resume{
-	margin:0px auto;
-	display: block;
+	padding-left: 125px;
+	display: inline;
 }
 .contact{
 	padding: 0px;
