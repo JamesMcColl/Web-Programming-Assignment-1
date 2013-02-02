@@ -38,6 +38,14 @@ p {
 	float: left;
 }
 
+.profile{
+	margin-left: 25px;
+}
+
+.resume{
+	margin:0px auto;
+	display: block;
+}
 .contact{
 	padding: 0px;
 	margin: 0px;
