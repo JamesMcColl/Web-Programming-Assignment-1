@@ -52,6 +52,12 @@ p {
 	background:#3543FB;
 	color: white;
 }
+.contactdetails li{
+	padding: 0px;
+	display: inline;
+	margin: 0px;
+	text-decoration: none;
+}
 
 .callAction a,
 .callAction a:visited{
